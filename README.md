@@ -47,7 +47,6 @@ L'exercice vise à simuler un audit de conformité complet en se plaçant succes
 ## 📂 Structure du rapport
 
 ```
-Rendu_Audit_Groupe_12.pdf
 │
 ├── 1. Présentation du contexte et périmètre
 │   ├── Présentation de l'entreprise
