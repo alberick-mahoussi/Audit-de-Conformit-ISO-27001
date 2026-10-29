@@ -1,11 +1,11 @@
-# 🔐 Audit de Conformité ISO 27001 — TechSecure Solutions
+#  Audit de Conformité ISO 27001 — TechSecure Solutions
 
 > Projet académique réalisé dans le cadre du cursus Master 2 Cybersécurité — École 2600  
 > Exercice d'audit de système de management de la sécurité de l'information (SMSI)
 
 ---
 
-## 📋 Présentation du projet
+##  Présentation du projet
 
 Ce dépôt contient le rapport d'audit ISO 27001 réalisé pour **TechSecure Solutions**, une PME fictive de 85 collaborateurs spécialisée dans l'édition de logiciels pour le secteur bancaire.
 
@@ -13,7 +13,7 @@ L'exercice vise à simuler un audit de conformité complet en se plaçant succes
 
 ---
 
-## 🎯 Objectifs pédagogiques
+##  Objectifs pédagogiques
 
 - Comprendre la logique et le déroulement d'un audit ISO 27001
 - Se positionner comme équipe auditée face à un organisme de certification
@@ -24,7 +24,7 @@ L'exercice vise à simuler un audit de conformité complet en se plaçant succes
 
 ---
 
-## 🏢 Contexte du scénario
+##  Contexte du scénario
 
 **Entreprise auditée :** TechSecure Solutions  
 **Secteur :** Édition logicielle — clients grands comptes bancaires  
@@ -44,7 +44,7 @@ L'exercice vise à simuler un audit de conformité complet en se plaçant succes
 
 ---
 
-## 📂 Structure du rapport
+##  Structure du rapport
 
 ```
 │
@@ -82,19 +82,19 @@ L'exercice vise à simuler un audit de conformité complet en se plaçant succes
 
 ---
 
-## 🔍 Mesures ISO 27001 analysées
+##  Mesures ISO 27001 analysées
 
 | Référence | Domaine | Statut |
 |---|---|---|
-| **A.5.15** | Contrôle d'accès | ⚠️ Non-conformité mineure |
-| **A.8.13** | Sauvegarde des informations | ❌ Non-conformité majeure |
-| **A.5.24** | Gestion des incidents | ⚠️ Observation |
-| **A.6.3** | Sensibilisation et formation | ⚠️ Observation |
-| **A.5.19** | Sécurité fournisseurs | ❌ Non-conformité majeure |
+| **A.5.15** | Contrôle d'accès |  Non-conformité mineure |
+| **A.8.13** | Sauvegarde des informations |  Non-conformité majeure |
+| **A.5.24** | Gestion des incidents |  Observation |
+| **A.6.3** | Sensibilisation et formation |  Observation |
+| **A.5.19** | Sécurité fournisseurs |  Non-conformité majeure |
 
 ---
 
-## 🚨 Synthèse des non-conformités
+##  Synthèse des non-conformités
 
 ### NC-01 — Défaut de tests de restauration (A.8.13)
 - **Constat :** Aucun test de restauration réalisé depuis 14 mois (dernière entrée : 15/11/2024)
@@ -116,7 +116,7 @@ L'exercice vise à simuler un audit de conformité complet en se plaçant succes
 
 ---
 
-## 👥 Équipe
+##  Équipe
 
 | Nom |
 |---|
@@ -131,7 +131,7 @@ L'exercice vise à simuler un audit de conformité complet en se plaçant succes
 
 ---
 
-## 🛠️ Outils et référentiels utilisés
+##  Outils et référentiels utilisés
 
 - **Norme de référence :** ISO/IEC 27001:2022 (Annexe A)
 - **Méthode d'analyse de risques :** EBIOS Risk Manager
@@ -142,7 +142,7 @@ L'exercice vise à simuler un audit de conformité complet en se plaçant succes
 
 ---
 
-## 📚 Références
+##  Références
 
 - [ISO/IEC 27001:2022 — Information security management systems](https://www.iso.org/standard/27001)
 - [ISO 27006 — Requirements for audit and certification bodies](https://www.iso.org/standard/74054.html)
@@ -150,6 +150,6 @@ L'exercice vise à simuler un audit de conformité complet en se plaçant succes
 
 ---
 
-## ⚠️ Avertissement
+##  Avertissement
 
 Ce projet est un **exercice académique**. L'entreprise TechSecure Solutions, les données, les incidents et les preuves mentionnées sont entièrement **fictifs**. Ce rapport ne constitue pas un audit de certification réel.
